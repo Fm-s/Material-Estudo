@@ -6,9 +6,12 @@
 - https://www.interviewbit.com _Simulador de entrevistas_
 - https://untools.co _Site com metodoligas de resolução de problemas_
 - https://archive.org/web/ _Tem salvo os sites como eram antigamente, como era o site da Apple em 1996? vai la e vê_
+
+
+#### Referencias de Recursos
+- https://caniuse.com _Site para checar a compatibildade de recursos dos browsers_
 - https://alternativeto.net _Um App que vc queria é pago? queria saber se tem algum Free? vai lá_
-
-
+- 
 #### Templates Gratuitos (Ideal pra aquele site de favor pra tia 🙃)
 - https://html5up.net
 - https://freehtml5.co
