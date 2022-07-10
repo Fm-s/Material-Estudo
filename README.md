@@ -13,8 +13,10 @@
 
 <hr/>
 
-## tudo em _gringes_ no momento 🇺🇸
+## 99% em _gringes_ no momento 🇺🇸
 
+#### Design Paternts e Tecnicas de refatorção
+- https://refactoring.guru _Bem dividido e bem explicado, material de estudo A+ 🇧🇷_
 
 #### Sites para consulta, tutoriais, notícias, etc . . .
 - https://www.geeksforgeeks.org _Tem tudo, tutorias, treino de entrevistas, o que imaginar, tem_
